@@ -1,1 +1,4 @@
 Chapters/
+bin/
+obj/
+.vs/
